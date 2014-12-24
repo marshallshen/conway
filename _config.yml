@@ -4,8 +4,8 @@ highlighter: pygments
 
 # Site settings
 title: "Conway"
-description: > # this means to ignore newlines until "email:"
-   Share Interesting Things About the World
+description: >
+   Share Ideas About World
 
 email: shen.marshall@gmail.com
 #blog logo
