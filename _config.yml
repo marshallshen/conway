@@ -3,11 +3,11 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Mediator"
+title: "Conway"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Share Interesting Things About the World
 
-email: a-mail@mail.mail
+email: shen.marshall@gmail.com
 #blog logo
 logo: "assets/images/df_logo.jpg"
 # blog cover
@@ -25,7 +25,7 @@ baseurl: ""
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
+    url:	https://twitter.com/marshallshen
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
